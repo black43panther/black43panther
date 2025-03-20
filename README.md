@@ -1,9 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Surajit Kar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=black43panther&label=Profile%20views&color=0e75b6&style=flat" alt="black43panther" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=black43panther" alt="black43panther" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend Devlopment**
 
@@ -26,5 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=black43panther&show_icons=true&locale=en&layout=compact" alt="black43panther" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=black43panther&show_icons=true&locale=en" alt="black43panther" /></p>
-
 
